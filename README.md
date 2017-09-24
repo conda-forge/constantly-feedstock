@@ -17,9 +17,7 @@ Originally twisted.python.constants from the Twisted project.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/constantly-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/constantly-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/constantly-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/constantly-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/constantly-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/constantly-feedstock/branch/master)
+All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/constantly-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/constantly-feedstock)
 
 Current release info
 ====================
